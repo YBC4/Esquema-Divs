@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content {
+}
+#header {
+    height: 80px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #5BD59E;
+}
+#navega {
+    height: 30px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #4A8BA3;
+}
+#banner {
+    height: 200px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #B84F10;
+}
+#mainhead {
+    background-color: #D7C526;
+    height: 30px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#contenido {
+    background-color: #A4D92B;
+    height: 600px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#footer {
+    height: 150px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #2C9469;
+}
+#leftside {
+    background-color: #E0A959;
+    padding: 10px;
+    float: left;
+    height: 580px;
+    width: 40%;
+    margin-right: 15px;
+}
+#rightside {
+    background-color: #359245;
+    padding: 10px;
+    float: right;
+    height: 580px;
+    width: 55%;
+}
+#rightside {
+    background-color: #D3D782;
+    padding: 10px;
+    float: right;
+    height: 580px;
+    width: 53%;
+}
+#menufijo {
+    background-color: #D93709;
+    margin-left: 33%;
+    position: fixed;
+}
+#c1 {
+    background-color: #036F5D;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 1;
+}
+#c2 {
+    background-color: #E5BF1B;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 2;
+}
+#c3 {
+    background-color: #446AAC;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 3;
+}
+#c4 {
+    background-color: #26AA00;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 4;
+}
+#c5 {
+    background-color: #C74308;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 5;
+}
